@@ -6,3 +6,5 @@ node_modules/
 未来之城英文网页文字说明.pdf
 英文网页照片/
 assets/*.mp4
+.vercel
+.env*.local

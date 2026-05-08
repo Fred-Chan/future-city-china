@@ -222,7 +222,7 @@ button {
   color: var(--white);
   background-image:
     linear-gradient(90deg, rgba(4, 34, 74, 0.92) 0%, rgba(4, 34, 74, 0.72) 43%, rgba(4, 34, 74, 0.26) 100%),
-    url("assets/future-city-stage.jpg");
+    url("assets/paper-plane-celebration.png");
   background-position: center;
   background-size: cover;
 }
